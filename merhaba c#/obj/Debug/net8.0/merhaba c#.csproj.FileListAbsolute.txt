@@ -1,0 +1,14 @@
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\bin\Debug\net8.0\merhaba c#.exe
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\bin\Debug\net8.0\merhaba c#.deps.json
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\bin\Debug\net8.0\merhaba c#.runtimeconfig.json
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\bin\Debug\net8.0\merhaba c#.dll
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\bin\Debug\net8.0\merhaba c#.pdb
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.AssemblyInfoInputs.cache
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.AssemblyInfo.cs
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.csproj.CoreCompileInputs.cache
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.dll
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\refint\merhaba c#.dll
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.pdb
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\merhaba c#.genruntimeconfig.cache
+C:\Users\aymis\OneDrive\Belgeler\c#\merhaba c#\obj\Debug\net8.0\ref\merhaba c#.dll
